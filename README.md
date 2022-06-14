@@ -1,1 +1,2 @@
 # odin-recipes
+This is a small project to demonstrate and practice basic html foundations as well as learning the basic workflow of Git and Github. The goal is to list various recipes on a funtional webpage using what I have learned so far from my time with The Odin Project.  
